@@ -1,0 +1,7 @@
+D:\Program Files (x86)\NakkiVisual\programms\Vector_private\Vector_private\bin\Debug\Vector_private.exe.config
+D:\Program Files (x86)\NakkiVisual\programms\Vector_private\Vector_private\bin\Debug\Vector_private.exe
+D:\Program Files (x86)\NakkiVisual\programms\Vector_private\Vector_private\bin\Debug\Vector_private.pdb
+D:\Program Files (x86)\NakkiVisual\programms\Vector_private\Vector_private\obj\Debug\Vector_private.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\NakkiVisual\programms\Vector_private\Vector_private\obj\Debug\Vector_private.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\NakkiVisual\programms\Vector_private\Vector_private\obj\Debug\Vector_private.exe
+D:\Program Files (x86)\NakkiVisual\programms\Vector_private\Vector_private\obj\Debug\Vector_private.pdb
