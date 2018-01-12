@@ -1,0 +1,7 @@
+D:\visual studio 2017\Projects\sh_5\sh_5\bin\Debug\sh_5.exe.config
+D:\visual studio 2017\Projects\sh_5\sh_5\bin\Debug\sh_5.exe
+D:\visual studio 2017\Projects\sh_5\sh_5\bin\Debug\sh_5.pdb
+D:\visual studio 2017\Projects\sh_5\sh_5\obj\Debug\sh_5.csprojResolveAssemblyReference.cache
+D:\visual studio 2017\Projects\sh_5\sh_5\obj\Debug\sh_5.csproj.CoreCompileInputs.cache
+D:\visual studio 2017\Projects\sh_5\sh_5\obj\Debug\sh_5.exe
+D:\visual studio 2017\Projects\sh_5\sh_5\obj\Debug\sh_5.pdb
