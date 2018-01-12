@@ -1,0 +1,7 @@
+D:\visual studio 2017\Projects\Testaa\Testaa\bin\Debug\Testaa.exe.config
+D:\visual studio 2017\Projects\Testaa\Testaa\bin\Debug\Testaa.exe
+D:\visual studio 2017\Projects\Testaa\Testaa\bin\Debug\Testaa.pdb
+D:\visual studio 2017\Projects\Testaa\Testaa\obj\Debug\Testaa.csprojResolveAssemblyReference.cache
+D:\visual studio 2017\Projects\Testaa\Testaa\obj\Debug\Testaa.csproj.CoreCompileInputs.cache
+D:\visual studio 2017\Projects\Testaa\Testaa\obj\Debug\Testaa.exe
+D:\visual studio 2017\Projects\Testaa\Testaa\obj\Debug\Testaa.pdb

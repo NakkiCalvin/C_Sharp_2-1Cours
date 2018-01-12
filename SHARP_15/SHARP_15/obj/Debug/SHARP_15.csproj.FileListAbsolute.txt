@@ -1,0 +1,7 @@
+D:\visual studio 2017\Projects\SHARP_15\SHARP_15\bin\Debug\SHARP_15.exe.config
+D:\visual studio 2017\Projects\SHARP_15\SHARP_15\bin\Debug\SHARP_15.exe
+D:\visual studio 2017\Projects\SHARP_15\SHARP_15\bin\Debug\SHARP_15.pdb
+D:\visual studio 2017\Projects\SHARP_15\SHARP_15\obj\Debug\SHARP_15.csprojResolveAssemblyReference.cache
+D:\visual studio 2017\Projects\SHARP_15\SHARP_15\obj\Debug\SHARP_15.csproj.CoreCompileInputs.cache
+D:\visual studio 2017\Projects\SHARP_15\SHARP_15\obj\Debug\SHARP_15.exe
+D:\visual studio 2017\Projects\SHARP_15\SHARP_15\obj\Debug\SHARP_15.pdb
